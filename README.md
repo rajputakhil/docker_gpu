@@ -103,6 +103,12 @@ If there is no output, most likely your your driver install process has failed. 
 
     sudo nvidia-docker run -it --rm -v /absolute path:/workspace nvcr.io/nvidia/tensorflow:18.08-py3
 
+test out if tensorflow-gpu is working
+
+    python3
+    >>from tensorflow.python.client import device_lib
+    >>print(device_lib.list_local_devices())
+
 ## 7. Install and Create virtualenvironment
 
     python3 -m pip install --user virtualenv
