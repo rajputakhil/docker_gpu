@@ -1,6 +1,3 @@
-# docker_gpu
-NVIDIA Container Runtime for Docker (this tutorial will help users to use Nvidia Docker image (tensorflow-gpu) on Ubuntu with a machine having GTX 1080ti Nvidia Graphic Card)
-
 # NVIDIA Container Runtime for Docker (this tutorial will help users to use Nvidia Docker image (tensorflow-gpu) on Ubuntu with a machine having GTX 1080ti Nvidia Graphic Card)
 
 ## 1. Install Ubuntu 18.04
