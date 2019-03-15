@@ -36,14 +36,6 @@ To retrieve information about the latest version of the packages listed in the r
 
     sudo apt-get update
 
-Before we proceed to the next step, we need to install screen to make sure that our installation is not interrupted by network fluctuations that might close our SSH session.
-
-    sudo apt-get install screen
-
-We login into screen using the command:
-
-screen
-
 ### v – Install the Nvidia GPU driver
 
 Using the previously aquired information from step 2, we download and install the latest Nvidia driver supported by our GPU. Please note that the command is different for each graphic card, depending on the driver available for it:
