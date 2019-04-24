@@ -22,7 +22,9 @@ We need to check what version of the latest drivers is our graphic card capable 
 
 We can check this by visiting the following page and see what is the correct driver version for our graphic card.
 
-Afterwards, we will visit the graphic driver PPA homepage here  and see if our graphic card is compatible with the drivers present in the repository.
+https://www.nvidia.com/object/unix.html
+
+Afterwards, we will visit the graphic driver PPA homepage here (https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa) and see if our graphic card is compatible with the drivers present in the repository.
 
 ### iii – Add the Nvidia graphic card PPA
 
