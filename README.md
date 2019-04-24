@@ -42,8 +42,6 @@ To retrieve information about the latest version of the packages listed in the r
 
 Using the previously aquired information from step 2, we download and install the latest Nvidia driver supported by our GPU. Please note that the command is different for each graphic card, depending on the driver available for it:
 
-    $ sudo apt-get install nvidia-XYXYX
-
     $ sudo apt-get install nvidia-390
 
 ( Ex. nvidia-390 is the latest driver version for the GTX 1xxx series).
